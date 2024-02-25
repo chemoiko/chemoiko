@@ -29,6 +29,6 @@
 
 
 
-[linkedin]: (https://www.linkedin.com/in/elijah-murket/)https://www.linkedin.com/in/elijah-murket/
+[linkedin]: (https://www.linkedin.com/in/elijah-murket/)
 
 
