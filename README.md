@@ -4,6 +4,8 @@
 
 - <b>javascript & node.js practice </b>
   - Building basic node apps and javascript practice(https://github.com/chemoiko/javascript-node.js)
+ 
+  - <b>Projects</b>
 - <b>Websites</b>
   -My personal website (https://steadywebdesign.github.io/)
   -
@@ -11,22 +13,18 @@
   - ecommerce store(https://github.com/chemoiko/WEB-APPLICATIONS-WITH-NODE.JS/tree/main/ecommerce%20store)) 
 - <b>Data Science & AI projects</b>
   - Fake News Detection model 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+-
+-<b>Certifications</b>
+-   Applied Data Science with Python Specialization
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: (https://www.linkedin.com/in/elijah-murket/)https://www.linkedin.com/in/elijah-murket/
 
 
