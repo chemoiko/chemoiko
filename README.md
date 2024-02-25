@@ -5,7 +5,6 @@
 - <b>javascript & node.js practice </b>
   - Building basic node apps and javascript practice(https://github.com/chemoiko/javascript-node.js)
  
-  - <b>Projects</b>
 - <b>Websites</b>
   -My personal website (https://steadywebdesign.github.io/)
   -
@@ -14,7 +13,7 @@
 - <b>Data Science & AI projects</b>
   - Fake News Detection model 
 -
--<b>Certifications</b>
+-<h2>Projects</h2>
 -   Applied Data Science with Python Specialization
 
 <h2> 🤳 Connect with me:</h2>
