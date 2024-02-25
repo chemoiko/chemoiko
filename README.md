@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Projects:</h2>
 
--<b>Applied Data Science</b>
-  -Scatter plot with matplotlib(https://github.com/chemoiko/scatter-plot-with-matplotlib)
-  -loan eligibility (https://github.com/chemoiko/loan-eligibility)
-  -Text mining | Corpus (https://github.com/chemoiko/Text-Mining-Proglang-corpus)
+- <b>Applied Data Science</b>
+  - Scatter plot with matplotlib(https://github.com/chemoiko/scatter-plot-with-matplotlib)
+  - loan eligibility (https://github.com/chemoiko/loan-eligibility)
+  - Text mining | Corpus (https://github.com/chemoiko/Text-Mining-Proglang-corpus)
   
 - <b>Javascript & node.js practice </b>
   - Building basic node apps and javascript practice(https://github.com/chemoiko/javascript-node.js)
