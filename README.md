@@ -6,14 +6,14 @@
   - Building basic node apps and javascript practice(https://github.com/chemoiko/javascript-node.js)
  
 - <b>Websites</b>
-  -My personal website (https://steadywebdesign.github.io/)
-  -
+  - My personal website (https://steadywebdesign.github.io/)
+  
 - <b>Full Stack Web Applications with node.js </b>
   - ecommerce store(https://github.com/chemoiko/WEB-APPLICATIONS-WITH-NODE.JS/tree/main/ecommerce%20store)) 
 - <b>Data Science & AI projects</b>
   - Fake News Detection model 
 -
--<h2>Projects</h2>
+-<h2>📃Certifications</h2>
 -   Applied Data Science with Python Specialization
 
 <h2> 🤳 Connect with me:</h2>
