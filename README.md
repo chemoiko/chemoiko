@@ -10,7 +10,7 @@
 - <b>Javascript & node.js practice </b>
   - Building basic node apps and javascript practice(https://github.com/chemoiko/javascript-node.js)
  
-- <b>Websites</b>
+- <b>Websites I built</b>
   - https://steadywebdesigns.com
   - https://ibowaterengineeringsolutions.com
   
