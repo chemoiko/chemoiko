@@ -11,7 +11,8 @@
   - Building basic node apps and javascript practice(https://github.com/chemoiko/javascript-node.js)
  
 - <b>Websites</b>
-  - My personal website (https://steadywebdesign.github.io/)
+  - https://steadywebdesigns.com
+  - https://ibowaterengineeringsolutions.com
   
 - <b>Full Stack Web Applications with node.js </b>
   - ecommerce store(https://github.com/chemoiko/WEB-APPLICATIONS-WITH-NODE.JS/tree/main/ecommerce%20store)) 
