@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Django projects</b>
-  - Blog article Web App
+  - Blog article Web App  (https://github.com/chemoiko/Django-Blog-App)
   
 - <b>Javascript & node.js practice </b>
   - Building basic node apps and javascript practice(https://github.com/chemoiko/javascript-node.js)
