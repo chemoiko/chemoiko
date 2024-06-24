@@ -16,10 +16,6 @@
   - Text mining | Corpus (https://github.com/chemoiko/Text-Mining-Proglang-corpus)
   
 
-
-- <b>Other Projects(WordPress)</b>
-  - https://steadywebdesigns.com
-  - https://ibowaterengineeringsolutions.com
  
 
 -<h2>📃Certifications</h2>
