@@ -4,13 +4,11 @@
 
 - <b>Django projects</b>
   - Blog article Web App  (https://github.com/chemoiko/Django-Blog-App)
-  
-- <b>Javascript & node.js practice </b>
-  - Building basic node apps and javascript practice(https://github.com/chemoiko/javascript-node.js)
- 
-- <b>Other Projects(WordPress)</b>
-  - https://steadywebdesigns.com
-  - https://ibowaterengineeringsolutions.com
+  - Ecommerce Website with Payment Integration (https://github.com/chemoiko/Django-Ecommerce-Website)
+  - Weather App (https://github.com/chemoiko/Django-Weather-App)
+  - Django To Do List (https://github.com/chemoiko/Django-To-Do-List)
+
+
  
 - <b>Applied Data Science</b>
   - Scatter plot with matplotlib(https://github.com/chemoiko/scatter-plot-with-matplotlib)
@@ -19,6 +17,10 @@
   
 
 
+- <b>Other Projects(WordPress)</b>
+  - https://steadywebdesigns.com
+  - https://ibowaterengineeringsolutions.com
+ 
 
 -<h2>📃Certifications</h2>
 -  
