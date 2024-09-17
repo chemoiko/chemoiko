@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Django projects</b>
+  - React Django To Do App (https://github.com/chemoiko/React-Django-To-Do-App)
   - Blog article Web App  (https://github.com/chemoiko/Django-Blog-App)
   - Ecommerce Website with Payment Integration (https://github.com/chemoiko/Django-Ecommerce-Website)
   - Weather App (https://github.com/chemoiko/Django-Weather-App)
