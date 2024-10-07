@@ -4,6 +4,7 @@
 
 - <b>Django projects</b>
   - Ecommerce Website with Payment Integration (https://github.com/chemoiko/Django-Ecommerce-Website)
+  - Nextjs Car Hub website (https://car-showcase-next-js-iota.vercel.app/)
   - React Django To Do App (https://github.com/chemoiko/React-Django-To-Do-App)
   - Blog article Web App  (https://github.com/chemoiko/Django-Blog-App) 
   - Weather App (https://github.com/chemoiko/Django-Weather-App)
