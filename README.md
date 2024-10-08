@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Django projects</b>
+- <b>React & Django projects</b>
   - Ecommerce Website with Payment Integration (https://github.com/chemoiko/Django-Ecommerce-Website)
   - Nextjs Car Hub website (https://car-showcase-next-js-iota.vercel.app/)
   - React Django To Do App (https://github.com/chemoiko/React-Django-To-Do-App)
+  - Dog API (https://github.com/chemoiko/Dog-Api)
   - Blog article Web App  (https://github.com/chemoiko/Django-Blog-App) 
   - Weather App (https://github.com/chemoiko/Django-Weather-App)
   - Django To Do List (https://github.com/chemoiko/Django-To-Do-List)
