@@ -6,6 +6,7 @@
   - Marketing Manager App with Django & Next.js (https://github.com/chemoiko/cm-backend-api)
   - Nextjs Car Hub website (https://car-showcase-next-js-iota.vercel.app/)
   - FastAPI and SQLAlchemy, PostgreSQL Book Management API  (https://github.com/chemoiko/fastapi-postgresql-crud)
+  - Django Kubernetes (https://github.com/chemoiko/Django-Kubernetes)
   - React Django To Do App (https://github.com/chemoiko/React-Django-To-Do-App)
   - Ecommerce Website with Payment Integration (https://github.com/chemoiko/Django-Ecommerce-Website)
   - Dog API (https://github.com/chemoiko/Dog-Api)
